@@ -5,14 +5,14 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10
 
 START_BUTTON = [
     [
-        Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="help_back")
+        Button.inline("🌟𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦🌟", data="help_back")
     ],
     [
-        Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/OXEGN"),
-        Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/+XpL0qhdF7TQzNDVl")
+        Button.url("💖𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥💖", "https://t.me/Premium5119"),
+        Button.url("💞𝗦𝗨𝗣𝗣𝗢𝗥𝗧💞", "https://t.me/premiumxop")
     ],
     [
-        Button.url("★𝗖𝗢𝗗𝗘𝗥★", "https://t.me/PRADHAN474")
+        Button.url("💖𝗖𝗢𝗗𝗘𝗥💝", "https://t.me/Premium5119")
     ]
 ]
 
@@ -35,7 +35,7 @@ async def start(event):
         TEXT = f"**ʜᴇʏ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})**\n"
         await event.client.send_file(
             event.chat_id,
-            "https://telegra.ph/file/b11e7d86e4622a3b3e54e.jpg",
+            "https://telegra.ph/file/5a8f069e3854e1542c11e.jpg",
             caption=TEXT,
             buttons=START_BUTTON
         )
