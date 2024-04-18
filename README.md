@@ -23,6 +23,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/BWANDARLOK"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/premiumopx"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>
