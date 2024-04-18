@@ -1,4 +1,4 @@
-# © @oxegn
+# © @Premium5119
 import asyncio
 
 from OXYBOT.data import GROUP, PORMS
