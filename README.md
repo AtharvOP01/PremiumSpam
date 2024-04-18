@@ -5,7 +5,7 @@
 [<img src=[
 https://telegra.ph/file/5a8f069e3854e1542c11e.jpg/>]
 
-> ⭐️ Thanks to everyone for using this op ˹𝕆𝕩𝕪𝕘𝕖𝕟 ꭙ 𝕊𝕡𝕒𝕞˼🫧. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op ℙℝ𝔼𝕄𝕀𝕌𝕄 ✘ 𝐒𝐏𝐀𝐌. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
