@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-[<img src=["https://telegra.ph/file/5a8f069e3854e1542c11e.jpg"]
+![image](https://github.com/AtharvOP01/SpamBot/assets/166982410/1921e97c-1da8-497f-97e1-943bc7cd2415)
 
 > ⭐️ Thanks to everyone for using this op ℙℝ𝔼𝕄𝕀𝕌𝕄 ✘ 𝐒𝐏𝐀𝐌. That is the greatest pleasure we have !
 
